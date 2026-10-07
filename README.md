@@ -24,7 +24,7 @@ I'm a Computer Engineering student at **UET Lahore** who builds full-stack web a
 - 🎓 Computer Engineering student at UET Lahore, with computing as a constant thread from matric through ICS to university
 - 💻 Strong interest in coding, across high-level web development and low-level assembly
 - 🧩 Focus: full-stack development, relational and NoSQL databases, and algorithmic problem solving
-- 🏛️ **Web Administrator** and **Research & Innovation (RNI) Lead** at UET Science Society
+- 🏛️ **Research & Innovation (RNI) Lead** at UET Science Society
 - 🎯 I like building systems people actually use: society websites, booking systems, navigation and mapping tools
 - 🌱 Goal: grow into a well-rounded software engineer and take on internships and real-world projects
 
