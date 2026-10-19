@@ -170,7 +170,7 @@ A group project: an intelligent chatbot for the Inquisitor platform, a UET socie
 
 **Let's connect and build something useful together.**
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://YOUR-PORTFOLIO-URL)
+[LinkedIn](https://www.linkedin.com/in/ubaid-ali-rashid) · [Email](mailto:ubaidrashid256@gmail.com) · [Portfolio](https://ubaid-ali.onrender.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" width="100%" alt="footer" />
 
